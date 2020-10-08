@@ -1,10 +1,10 @@
-| ISO-639-1 | NAME | CONTRIBUTERS |
-|:--------:|:----:|:-------|
-| en | English | |
-| ko | Korean |  |
-| ru | Russian | STANDART SCP |
-| uk | Ukrainian | STANDART SCP |
-| zh | Chinese | Ningmeng |
-| es | Spanish | Jesus-QC |
-| pl | Polish | Killers0992 |
-| ca | Catalan | xRoier |
+| ISO-639-1 |   NAME    | ISO Language Code | CONTRIBUTERS |
+| :-------: | :-------: | :---------------- | ------------ |
+|    en     |  English  | en-US             |              |
+|    ko     |  Korean   | ko-KR             |              |
+|    ru     |  Russian  | ru-RU             | STANDART SCP |
+|    uk     | Ukrainian | uk-UA             | STANDART SCP |
+|    zh     |  Chinese  | zh-CN             | Ningmeng     |
+|    es     |  Spanish  | es-ES             | Jesus-QC     |
+|    pl     |  Polish   | pl-PL             | Killers0992  |
+|    ca     |  Catalan  | ca-ES             | xRoier       |

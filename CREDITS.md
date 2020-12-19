@@ -8,4 +8,4 @@
 |    es     |  Spanish  | es-ES             | Jesus-QC     |
 |    pl     |  Polish   | pl-PL             | Killers0992  |
 |    ca     |  Catalan  | ca-ES             | xRoier       |
-|    fr     |  French   | fr-Fr             | biolix06     |
+|    fr     |  French   | fr-FR             | biolix06     |

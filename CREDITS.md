@@ -8,4 +8,5 @@
 |    es     |  Spanish  | es-ES             | Jesus-QC     |
 |    pl     |  Polish   | pl-PL             | Killers0992  |
 |    ca     |  Catalan  | ca-ES             | xRoier       |
+|    fr     |  French   | fr-FR             | biolix06     |
 |    tr     |  Turkish  | tr-TR             | BOT Benson   |

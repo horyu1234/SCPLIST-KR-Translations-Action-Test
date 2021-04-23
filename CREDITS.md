@@ -1,4 +1,4 @@
-| ISO-639-1 |   NAME    | ISO Language Code | CONTRIBUTERS |
+| ISO-639-1 |   NAME    | IETF Language Tag | CONTRIBUTERS |
 | :-------: | :-------: | :---------------- | ------------ |
 |    en     |  English  | en-US             |              |
 |    ko     |  Korean   | ko-KR             |              |

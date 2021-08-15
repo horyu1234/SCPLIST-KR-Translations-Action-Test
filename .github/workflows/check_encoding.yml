@@ -1,4 +1,4 @@
-name: check file encodings in PR
+name: Check File Encoding
 
 on: [ push, pull_request ]
 

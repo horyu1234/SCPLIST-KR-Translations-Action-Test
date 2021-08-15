@@ -11,4 +11,4 @@ jobs:
         uses: actions/checkout@v2
 
       - name: "[-] Check Encoding is UTF8-NO-BOM"
-        run: echo '! find $GITHUB_WORKSPACE -type f -exec file --name "*.properties" --mime {} \; | grep -v "charset=binary$" | grep -v "charset=utf-8$"' | bash
+        run: echo '! find $GITHUB_WORKSPACE -type f -name "*.properties" -exec file --mime {} \; | grep -v "charset=binary$" | grep -v "charset=utf-8$"' | bash

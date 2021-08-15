@@ -10,5 +10,5 @@ jobs:
       - name: "[Git] Checkout repository"
         uses: actions/checkout@v2
 
-      - name: "[-] Check Encoding is UTF8-NO-BOM"
+      - name: "[-] Check Encoding is UTF-8"
         run: echo '! find $GITHUB_WORKSPACE -type f -name "*.properties" -exec file --mime {} \; | grep -v "charset=utf-8$"' | bash

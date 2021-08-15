@@ -3,7 +3,7 @@ name: Check File Encoding
 on: [ push, pull_request ]
 
 jobs:
-  file-encoding:
+  check-encoding:
     runs-on: ubuntu-latest
 
     steps:
